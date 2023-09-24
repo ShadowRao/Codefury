@@ -60,9 +60,13 @@ Connect Euphoria with wearable devices to monitor users' stress levels, physical
 
 
 
-### License
+### Licensing Information
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project operates under the MIT License, granting you the freedom to utilize, adapt, and distribute it according to the conditions specified in the [LICENSE](LICENSE) file.
+
+You are welcome to make use of this project, and we encourage you to explore, modify, and share it in line with the terms of the MIT License.
+
+[Read the MIT License](https://opensource.org/licenses/MIT)
 
 
 ### Usage
