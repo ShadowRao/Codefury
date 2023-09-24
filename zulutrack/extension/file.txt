@@ -1,0 +1,1 @@
+{"chrome:": 68, "www.youtube.com": 32, "": 0}
