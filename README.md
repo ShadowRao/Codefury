@@ -1,6 +1,7 @@
 # Euphoria
 
-
+### Demo of website
+https://youtu.be/Xso1HdlNOkI
 ### Description
 
 Euphoria is a website designed to promote well-being and relaxation for users while also helping them manage their screen time. It offers a variety of features aimed at enhancing relaxation and providing insights into how users spend their time on the internet. This README file will guide you through the various aspects of the project, its features, and how to use it.
